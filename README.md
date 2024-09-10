@@ -23,3 +23,6 @@ This Spring Boot project implements a product management system with *basic auth
 3.I have used Mongodb Atlas , we can use any database or local database.
 
 4.If any modifications needed please reachout to me, I have tried to implement best coding standards.
+
+5.I have provided the Screenshot of postman for api testing kindly check.
+
