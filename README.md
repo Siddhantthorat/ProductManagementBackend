@@ -18,7 +18,7 @@ This Spring Boot project implements a product management system with *basic auth
 ## Note:
 1.I have used basic auth, we can use other authentication providers as well.
 
-2.I have Implemented Exception Handling in few apis, we also go ahead with globalexceptionhandler like using advice controller.
+2.I have Implemented Exception Handling in few apis, we can also go ahead with globalexceptionhandler like using advice controller.
 
 3.I have used Mongodb Atlas , we can use any database or local database.
 
